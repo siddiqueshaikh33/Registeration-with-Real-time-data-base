@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40717641716",
+    "project_id": "realhustle-9e47d",
+    "storage_bucket": "realhustle-9e47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40717641716:android:5388ab921bf7bec812fba1",
+        "android_client_info": {
+          "package_name": "com.example.realhustle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuWrs9LZRmPHgIiV1ze3TVyOLYONvKO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
